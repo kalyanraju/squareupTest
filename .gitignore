@@ -1,0 +1,7 @@
+vendor/*
+tests/*
+.env
+#Added by PHPSandbox
+/vendor
+.env
+database.sqlite
